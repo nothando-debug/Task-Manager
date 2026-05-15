@@ -4,8 +4,14 @@ import java.util.List;
 
 public class TaskManager {
 
-    public List<String> viewTasks():
-        return List<String>;
+    public void viewTasks(){
+    
+    }
+        
+
+    public void createTasks(){
+        
+    }
 
     
 
