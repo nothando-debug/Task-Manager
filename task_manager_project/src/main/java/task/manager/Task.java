@@ -6,6 +6,10 @@ public class Task {
     public Task(String list){
         this.list = list;
     }
+
+    public String getTask(){
+        return this.list;
+    }
     
     
 }
