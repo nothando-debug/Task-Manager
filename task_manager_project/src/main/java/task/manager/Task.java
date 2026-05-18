@@ -1,15 +1,18 @@
-package task_manager_project.src.main.java.task.manager;
+//package task_manager_project.src.main.java.task.manager;
+package task.manager;
 
 
 public class Task {
-    String list;
-    public Task(String list){
-        this.list = list;
+    String the_task;
+    public Task(String the_task){
+        this.the_task = the_task;
     }
 
     public String getTask(){
-        return this.list;
+        return this.the_task;
     }
+
+    
     
     
     
