@@ -1,6 +1,7 @@
 package task.manager;
 
 public class DeleteCommand {
-    //responsiible for deleting command
+    //responsiible for deleting tasks
+    
     
 }
